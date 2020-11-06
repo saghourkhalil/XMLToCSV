@@ -1,0 +1,15 @@
+D:\Projets_C#\stage khalil\XMLtooCSV\bin\Debug\XMLtooCSV.exe.config
+D:\Projets_C#\stage khalil\XMLtooCSV\bin\Debug\XMLtooCSV.exe
+D:\Projets_C#\stage khalil\XMLtooCSV\bin\Debug\XMLtooCSV.pdb
+D:\Projets_C#\stage khalil\XMLtooCSV\obj\Debug\XMLtooCSV.csprojAssemblyReference.cache
+D:\Projets_C#\stage khalil\XMLtooCSV\obj\Debug\XMLtooCSV.Form1.resources
+D:\Projets_C#\stage khalil\XMLtooCSV\obj\Debug\XMLtooCSV.Properties.Resources.resources
+D:\Projets_C#\stage khalil\XMLtooCSV\obj\Debug\XMLtooCSV.csproj.GenerateResource.cache
+D:\Projets_C#\stage khalil\XMLtooCSV\obj\Debug\XMLtooCSV.csproj.CoreCompileInputs.cache
+D:\Projets_C#\stage khalil\XMLtooCSV\obj\Debug\XMLtooCSV.exe
+D:\Projets_C#\stage khalil\XMLtooCSV\obj\Debug\XMLtooCSV.pdb
+D:\Projets_C#\stage khalil\XMLtooCSV\bin\Debug\XMLtooCSV.exe.manifest
+D:\Projets_C#\stage khalil\XMLtooCSV\bin\Debug\XMLtooCSV.application
+D:\Projets_C#\stage khalil\XMLtooCSV\obj\Debug\XMLtooCSV.TrustInfo.xml
+D:\Projets_C#\stage khalil\XMLtooCSV\obj\Debug\XMLtooCSV.exe.manifest
+D:\Projets_C#\stage khalil\XMLtooCSV\obj\Debug\XMLtooCSV.application

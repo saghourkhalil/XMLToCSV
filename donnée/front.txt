@@ -1,0 +1,30 @@
+
+			<table class="table">
+				<thead class="thead-dark">
+					<tr>
+						<th>#</th>
+						<th>nom</th>
+						<th>company</th>
+						<th>email</th>
+						<th>domain</th>
+						<th>Option</th>
+					</tr>
+				</thead>
+				<tbody>
+					
+				 <tr>
+        				<td>
+            					@customer.DisplayName
+        				</td>
+        				<td>
+           					 @customer.CompanyName
+       					 </td>
+       					 <td>
+         					   @customer.PrimaryEmailAddr.Address
+        				</td>
+        				<td>
+           					 @customer.Domain
+        				</td>
+    					</tr>
+				</tbody>
+			</table>
